@@ -9,6 +9,8 @@ but lighter and better.
 * [Documentation](https://bootstrap-flask.readthedocs.io/en/latest/)
 * [PyPI](https://pypi.org/project/Bootstrap-Flask/)
 * [Examples](https://github.com/greyli/bootstrap-flask/tree/master/examples)
+* [李辉](https://greyli.com/integrate-bootstrap-in-flask-application-with-bootstrap-flask/)
+
 
 ## TODO
 
